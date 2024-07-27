@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bank</string>
+    <string name="bank_bb">BB</string>
+    <string name="bank_bradesco">Bradesco</string>
+    <string name="bank_bv">BV</string>
+    <string name="bank_inter">Inter</string>
+    <string name="bank_itau">Itau</string>
+    <string name="bank_neon">Neon</string>
+    <string name="bank_original">Original</string>
+    <string name="bank_santander">Santander</string>
+</resources>
